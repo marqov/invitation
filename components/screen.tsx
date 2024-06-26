@@ -38,12 +38,13 @@ export function Screen() {
               <p className="text-sm text-gray-300">19:30 PM - 22:00 PM  <b>Dîner</b></p>
               <p className="text-sm text-gray-300">23:00 PM - 2:00 AM <b>Zahow Jerbi (Fête Djerbienne)</b></p>
 	    </div>
-	    <div className="bg-white/10 rounded-lg p-3 text-left"> 	
+	    <div className="bg-white/10 rounded-lg p-3 text-left">
+	      <h3 className="text-lg font-semibold">6 Juillet</h3> 	
               <p className="text-sm text-gray-200">18:30 PM - 20:00 PM <b>Barboura</b></p>
               <p className="text-sm text-gray-200">21:30 PM - 2:00 AM <b>Chwachen (Fête pour les femmes)</b></p>
-	      <h3 className="text-lg font-semibold">6 Juillet</h3> <a href="https://maps.app.goo.gl/Af5nvmefyWtJtHR26"><img src="/houch.png"/></a>	
-	   </div>
-	   <div className="bg-white/10 rounded-lg p-3 text-left"> 
+	      <a href="https://maps.app.goo.gl/Af5nvmefyWtJtHR26"><img src="/houch.png"/></a>	
+	    </div>
+	    <div className="bg-white/10 rounded-lg p-3 text-left"> 
               <h3 className="text-lg font-semibold">7 Juillet</h3> <a href="https://maps.app.goo.gl/CmRynA7upbRFEwHf8"><img src="/houch.png"/></a>
               <p className="text-sm text-gray-200">20:00 PM - 00:00 AM <b>Jahfa (Soirée finale )</b></p>
             </div>
